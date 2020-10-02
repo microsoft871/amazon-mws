@@ -1,5 +1,5 @@
-# amazon-mws
-Tiny library for interacting with the Amazon MWS API
+# amazon-AWS
+A tiny library for interacting with the Amazon MWS API
 
 ## Installation
 `$ npm install amazon-mws-node`
